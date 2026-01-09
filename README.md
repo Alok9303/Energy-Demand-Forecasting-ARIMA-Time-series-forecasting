@@ -32,6 +32,10 @@ This project demonstrates time series forecasting of energy demand using the ARI
 * Generated future energy demand forecasts
 * Visual comparison of actual vs predicted values
 
+## 📸 Screenshot
+
+![Actual vs Predicted values](resources/Screenshot.png)
+
 ## 🚀 How to Run
 
 1. Clone the repository
